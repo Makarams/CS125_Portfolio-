@@ -27,15 +27,15 @@ The game concludes when a fighter's Health Points reach zero, declaring the oppo
 
 Action Check Order:
 
-Movement Check
+_Movement Check
 
-Defense Check
+_Defense Check
 
-Attack Check
+_Attack Check
 
-Critical Chance Check
+_Critical Chance Check
 
-HP Update Status Check
+_HP Update Status Check
 
 Additional Functions:
 
