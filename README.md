@@ -1,11 +1,14 @@
 CS125_Portfolio
+
 This is my first year CS portfolio.
 
 I. INTRODUCTION
-Introduction:
+
 Welcome to the world of strategic combat in our Turn-Based Battle Game! In this game, you'll navigate a battlefield using a combination of movement, defense, and attacks to outsmart and defeat your opponent. Dive into the dynamic interplay of health points, distance management, and tactical decision-making as you strive for victory.
 
-Project Description: Turn-Based Battle Game
+II. Project Description: 
+
+Turn-Based Battle Game
 
 Initial Conditions:
 At the onset of the battle, fighters begin with 10 Health Points (HP) each, and the initial distance between them is set at 10 units. The distance between fighters can be altered based on their movements. If both fighters move forward, the distance is reduced by 2; if only one moves forward, it decreases by 1. Hits can only be executed when the distance is 1 unit.
